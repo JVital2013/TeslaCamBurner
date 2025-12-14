@@ -4,7 +4,7 @@ Encode Tesla Dashcam Clips with telemetry data in the video itself, for easy sha
 
 
 
-Windows Builds are available [here](https://github.com/JVital2013/TeslaCamBurner/releases). Requires .NET 8.0
+Windows Builds are available [here](https://github.com/JVital2013/TeslaCamBurner/releases). Extract the zip file, and run "Tesla Cam Burner GUI.exe". Requires .NET 8.0
 
 
 
